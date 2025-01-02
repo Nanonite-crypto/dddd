@@ -40,7 +40,7 @@ torch.backends.cudnn.allow_tf32 = True
 tts_model = ParlerTTSForConditionalGeneration.from_pretrained(
     "parler-tts/parler-tts-mini-v1",
     torch_dtype=torch.float16 if device == "cuda" else torch.float32,  # Use FP16 for GPU
-    use_flash_attention_2=True  # Enable Flash Attention 2
+    use_flash_attention_2=False  # Changed to False to disable Flash Attention
 ).to(device)
 tts_tokenizer = AutoTokenizer.from_pretrained("parler-tts/parler-tts-mini-v1")
 

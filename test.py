@@ -1,34 +1,20 @@
 import torch
-from parler_tts import ParlerTTSForConditionalGeneration
-from transformers import AutoTokenizer
-import soundfile as sf
+from TTS.api import TTS
+import gradio as gr
 
-device = "cuda:0" if torch.cuda.is_available() else "cpu"
+device = "cuda" if torch.cuda.is_available() else "cpu"
 
-model = ParlerTTSForConditionalGeneration.from_pretrained("parler-tts/parler-tts-mini-v1").to(device)
-tokenizer = AutoTokenizer.from_pretrained("parler-tts/parler-tts-mini-v1")
+def generate_audio(text="Hello"):
+    tts = TTS(model_name="voice_conversion_models/multilingual/vctk/freevc24", progress_bar=False, gpu=True if device == "cuda" else False).to(device)
+    
+    if not hasattr(tts, 'speakers') or not tts.speakers:
+        print("No speakers found, proceeding without speaker selection.")
+        tts.tts_to_file(text=text, file_path="outputs/output.wav")
+    else:
+        speaker_name = tts.speakers[0].name
+        speaker_id = tts.speakers[0].id
+        tts.tts_to_file(text=text, file_path="outputs/output.wav", speaker=speaker_name, speaker_id=speaker_id)
+    
+    return "outputs/output.wav"
 
-prompt = "Doesn't that feel kind-off weird?"
-description = "Mira is a sophisticated British male voice, calm yet witty, with clear, measured enunciation, perfect for a high-tech AI assistant. Her tone is very low, yet cheerful."
-
-description_tokens = tokenizer(
-    description,
-    return_tensors="pt",
-    padding=True,
-    return_attention_mask=True
-)
-prompt_tokens = tokenizer(
-    prompt,
-    return_tensors="pt",
-    padding=True,
-    return_attention_mask=True
-)
-
-generation = model.generate(
-    attention_mask=description_tokens.attention_mask.to(device),
-    input_ids=description_tokens.input_ids.to(device),
-    prompt_input_ids=prompt_tokens.input_ids.to(device),
-    prompt_attention_mask=prompt_tokens.attention_mask.to(device)
-)
-audio_arr = generation.cpu().numpy().squeeze()
-sf.write("parler_tts_out.wav", audio_arr, model.config.sampling_rate)
+print(generate_audio())
