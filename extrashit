@@ -1,0 +1,955 @@
+Confidence: 98.7
+Word: stop
+Reason: The statement "Bro just stop" implies a request for the other person to cease a certain behavior or action, which can be interpreted as negative in tone if the context suggests that the action is unwanted or problematic.
+
+    ¤: 25XX
+" (User ID: 1257740341696790561)
+        receive: Created at 2025-01-07 13:44:08, Edited at Never
+        $#💬│chat | kingamyra_: Yep
+
+
+DEBUG: Adding message to queue: yooo brodieeeee...
+https://discord.com/channels/1163962884049616946/1312660237999935580/1326184602225606666
+Analysis of:  <Message id=1326184602225606666 channel=<TextChannel id=1312660237999935580 name='💬│chat' position=11 nsfw=False news=False category_id=1163962885156913197> type=<MessageType.default: 0> author=<Member id=1257740341696790561 name='kingamyra_' global_name='Kingamyra' bot=False nick=None guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24135>> flags=<MessageFlags value=0>>
+Analysis Result:  Positive
+Confidence: 99.9
+Word: beautiful
+Reason: The phrase "beautiful" is used in a positive context to describe something or someone.
+
+    ¤: Server Booster
+" (User ID: 1270996756754333706)
+        receive: Created at 2025-01-07 13:44:08, Edited at Never
+        $#💬│chat | ritualennui: Yes
+
+
+DEBUG: Adding message to queue: ...
+https://discord.com/channels/1163962884049616946/1312660237999935580/1326184602846498926
+Analysis of:  <Message id=1326184602846498926 channel=<TextChannel id=1312660237999935580 name='💬│chat' position=11 nsfw=False news=False category_id=1163962885156913197> type=<MessageType.reply: 19> author=<Member id=1270996756754333706 name='ritualennui' global_name='𝖘𝖎𝖑𝖑𝖞' bot=False nick=None guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24135>> flags=<MessageFlags value=0>>
+Analysis Result:  Neutral
+Confidence: 98.4
+Word: .
+Reason: It is a punctuation mark at the end of a sentence, used to indicate a full stop or completion.
+
+    ¤: Reaction Perms
+" (User ID: 1326024466236702784)
+        receive: Created at 2025-01-07 13:44:08, Edited at Never
+        $#💬│chat | ball_foot195067: Bc I am black
+
+
+DEBUG: Adding message to queue: https://cdn.discordapp.com/attachments/13126602379...
+DEBUG: Adding message to queue: ...
+DEBUG: Adding message to queue: https://cdn.discordapp.com/attachments/13126602379...
+DEBUG: Adding message to queue: ...
+DEBUG: Adding message to queue: Yo should I stream at rn or at 8:39...
+DEBUG: Adding message to queue: Good morning...
+DEBUG: Adding message to queue: ,tz...
+DEBUG: Adding message to queue: ...
+https://discord.com/channels/1163962884049616946/1312660237999935580/1326184604033482822
+Analysis of:  <Message id=1326184604033482822 channel=<TextChannel id=1312660237999935580 name='💬│chat' position=11 nsfw=False news=False category_id=1163962885156913197> type=<MessageType.default: 0> author=<Member id=1326024466236702784 name='ball_foot195067' global_name='Ball_foot195067' bot=False nick=None guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24135>> flags=<MessageFlags value=0>>
+Analysis Result:  Neutral
+Confidence: 98.6
+Word: black
+Reason: The color black is not inherently positive or negative; it is a descriptive term often used to describe hair, skin, and other physical characteristics in human beings. However, the use of this word can carry social and cultural connotations that may be perceived positively or negatively depending on the context and the individual's experiences. In this case, as it seems the statement is simply describing a color, there is no evidence to suggest a positive or negative intent.
+
+    ¤: 25XX
+" (User ID: 1312206985529393182)
+        receive: Created at 2025-01-07 13:44:10, Edited at Never
+        $#💬│chat | chosen7k5: Me too
+
+
+https://discord.com/channels/1163962884049616946/1312660237999935580/1326184609301401640
+Analysis of:  <Message id=1326184609301401640 channel=<TextChannel id=1312660237999935580 name='💬│chat' position=11 nsfw=False news=False category_id=1163962885156913197> type=<MessageType.default: 0> author=<Member id=1312206985529393182 name='chosen7k5' global_name='chosen7k5' bot=False nick=None guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24135>> flags=<MessageFlags value=0>>
+Analysis Result:  Neutral
+Confidence: 99.8
+Word: me too
+
+    ¤: Chaos
+" (User ID: 1285574148122480641)
+        receive: Created at 2025-01-07 13:44:12, Edited at Never
+        $#💬│chat | adilyn1008: Yup, I'm in science 😭
+
+
+DEBUG: Adding message to queue: ...
+DEBUG: Adding message to queue: Yeah...
+https://discord.com/channels/1163962884049616946/1312660237999935580/1326184619514658896
+Analysis of:  <Message id=1326184619514658896 channel=<TextChannel id=1312660237999935580 name='💬│chat' position=11 nsfw=False news=False category_id=1163962885156913197> type=<MessageType.default: 0> author=<Member id=1285574148122480641 name='adilyn1008' global_name='Adilyn' bot=False nick=None guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24135>> flags=<MessageFlags value=0>>
+Analysis Result:  Neutral
+Confidence: 100
+Word: yup
+Reason: The word "yup" is a neutral acknowledgment of affirmation or agreement. In this context, it's used to indicate understanding that the conversation is about science.
+
+    ¤: Reaction Perms
+" (User ID: 1326024466236702784)
+        receive: Created at 2025-01-07 13:44:12, Edited at Never
+        $#💬│chat | ball_foot195067: Mods
+
+
+DEBUG: Adding message to queue: When do yall go back?...
+https://discord.com/channels/1163962884049616946/1312660237999935580/1326184619770646578
+Analysis of:  <Message id=1326184619770646578 channel=<TextChannel id=1312660237999935580 name='💬│chat' position=11 nsfw=False news=False category_id=1163962885156913197> type=<MessageType.default: 0> author=<Member id=1326024466236702784 name='ball_foot195067' global_name='Ball_foot195067' bot=False nick=None guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24135>> flags=<MessageFlags value=0>>
+Analysis Result:  Positive
+   Confidence: 98.7
+   Word: wonderful
+   Reason: The user describes their experience as "wonderful", indicating a positive emotional state.
+
+    ¤: bleed
+" (User ID: 593921296224747521)
+        receive: Created at 2025-01-07 13:44:13, Edited at Never
+        $#🤖│bot-commands | bleed#1854: <@!1285574148122480641>
+
+
+DEBUG: Adding message to queue: Bro like he always has to be that one person I got...
+DEBUG: Adding message to queue: I still mess with you though😭😭...
+DEBUG: Adding message to queue: How foo??😹 I’m making 6 figures in HVAC...
+DEBUG: Adding message to queue: <@!1106367362397122641>...
+DEBUG: Adding message to queue: Rn...
+DEBUG: Adding message to queue: ...
+https://discord.com/channels/1163962884049616946/1230354775250436156/1326184624338239690
+Analysis of:  <Message id=1326184624338239690 channel=<TextChannel id=1230354775250436156 name='🤖│bot-commands' position=12 nsfw=False news=False category_id=1163962885156913197> type=<MessageType.default: 0> author=<Member id=593921296224747521 name='bleed' global_name=None bot=True nick='bleed' guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24135>> flags=<MessageFlags value=0>>
+Analysis Result:  Neutral
+   Confidence: 93.7
+   Word: .
+   Reason: The message appears to be a request or instruction, but it doesn't contain any content that can be categorized as positive, negative, or harmful. It's a neutral punctuation mark used to end a sentence.
+
+    ¤: 25XX
+" (User ID: 1257740341696790561)
+        receive: Created at 2025-01-07 13:44:19, Edited at Never
+        $#💬│chat | kingamyra_: But dat not gonna stop the grind
+
+
+https://discord.com/channels/1163962884049616946/1312660237999935580/1326184648585510932
+Analysis of:  <Message id=1326184648585510932 channel=<TextChannel id=1312660237999935580 name='💬│chat' position=11 nsfw=False news=False category_id=1163962885156913197> type=<MessageType.default: 0> author=<Member id=1257740341696790561 name='kingamyra_' global_name='Kingamyra' bot=False nick=None guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24135>> flags=<MessageFlags value=0>>
+Analysis Result:  Neutral
+Confidence: 98.7
+Word: but dat not gonna stop the grind
+Reason: This statement indicates a determination to continue working or progressing despite an obstacle (in this case, "dat"), which can be interpreted as neutral or mixed depending on context.
+
+    ¤: VC Mods
+" (User ID: 494048155286110208)
+        receive: Created at 2025-01-07 13:44:20, Edited at Never
+        $#💬│chat | nbuther: damn
+
+
+DEBUG: Adding message to queue: Understandable😂😂...
+DEBUG: Adding message to queue: i literall joined yesterday idgaf if u mess w me o...
+DEBUG: Adding message to queue: ...
+https://discord.com/channels/1163962884049616946/1312660237999935580/1326184653400440885
+Analysis of:  <Message id=1326184653400440885 channel=<TextChannel id=1312660237999935580 name='💬│chat' position=11 nsfw=False news=False category_id=1163962885156913197> type=<MessageType.default: 0> author=<Member id=494048155286110208 name='nbuther' global_name='nbuther' bot=False nick='KS [AFK]' guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24135>> flags=<MessageFlags value=0>>
+Analysis Result:  Negative
+   Confidence: 98.3
+   Word: damn
+   Reason: The word "damn" is considered inappropriate or offensive language, used to express annoyance or anger.
+
+    ¤: 25XX
+" (User ID: 1011761662698725506)
+        receive: Created at 2025-01-07 13:44:22, Edited at Never
+        $#💬│chat | 5starbroz: on what
+
+
+DEBUG: Adding message to queue: Tsss...
+DEBUG: Adding message to queue: ...
+DEBUG: Adding message to queue: ...
+https://discord.com/channels/1163962884049616946/1312660237999935580/1326184661407502360
+Analysis of:  <Message id=1326184661407502360 channel=<TextChannel id=1312660237999935580 name='💬│chat' position=11 nsfw=False news=False category_id=1163962885156913197> type=<MessageType.reply: 19> author=<Member id=1011761662698725506 name='5starbroz' global_name='5StarBroZ' bot=False nick=None guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24135>> flags=<MessageFlags value=0>>
+Analysis Result:  Neutral
+Confidence: 99.8
+Word: on
+Reason: The word "on" is used to indicate a connection or position in this sentence, which does not inherently carry a positive or negative connotation. It simply helps form the question being asked.
+
+    ¤: Server Booster
+" (User ID: 1270996756754333706)
+        receive: Created at 2025-01-07 13:44:23, Edited at Never
+        $#💬│chat | ritualennui: Never mind the prolly hairy
+
+
+https://discord.com/channels/1163962884049616946/1312660237999935580/1326184663961833545
+Analysis of:  <Message id=1326184663961833545 channel=<TextChannel id=1312660237999935580 name='💬│chat' position=11 nsfw=False news=False category_id=1163962885156913197> type=<MessageType.reply: 19> author=<Member id=1270996756754333706 name='ritualennui' global_name='𝖘𝖎𝖑𝖑𝖞' bot=False nick=None guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24135>> flags=<MessageFlags value=0>>
+Analysis Result:  Neutral
+Confidence: 95.1
+Word: nevermind
+Reason: It is a phrase used to express disregard or dismissal, which can be interpreted in various ways depending on the context.
+
+    ¤: spongebob
+" (User ID: 597888338267209729)
+        receive: Created at 2025-01-07 13:44:27, Edited at Never
+        $#💬│chat | onthenoti: We sturdy off that😁
+
+
+DEBUG: Adding message to queue: ...
+DEBUG: Adding message to queue: OSS...
+https://discord.com/channels/1163962884049616946/1312660237999935580/1326184680105705482
+Analysis of:  <Message id=1326184680105705482 channel=<TextChannel id=1312660237999935580 name='💬│chat' position=11 nsfw=False news=False category_id=1163962885156913197> type=<MessageType.reply: 19> author=<Member id=597888338267209729 name='onthenoti' global_name='gogogogo' bot=False nick=None guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24135>> flags=<MessageFlags value=0>>
+Analysis Result:  Neutral
+Confidence: 99.7
+Word: sturdy
+Reason: The word "sturdy" describes something strong or robust, and it can be used in various contexts including a physical object or an individual's character. In this case, it is not necessarily positive or negative; rather, it simply provides information about the subject (off) mentioned.
+
+    ¤: Known
+" (User ID: 1064771410523869185)
+        receive: Created at 2025-01-07 13:44:27, Edited at Never
+        $#💬│chat | noorum__: ts
+
+
+DEBUG: Adding message to queue: What time y’all go to school...
+DEBUG: Adding message to queue: huh...
+https://discord.com/channels/1163962884049616946/1312660237999935580/1326184682425159691
+Analysis of:  <Message id=1326184682425159691 channel=<TextChannel id=1312660237999935580 name='💬│chat' position=11 nsfw=False news=False category_id=1163962885156913197> type=<MessageType.reply: 19> author=<Member id=1064771410523869185 name='noorum__' global_name='noorum.™' bot=False nick='noorum fr' guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24135>> flags=<MessageFlags value=0>>
+Analysis Result:  Neutral
+Confidence: 98.5
+Word: .
+Reason: The dot at the end of a sentence is typically used to indicate the end of a thought or statement in written communication, and as such, it does not carry inherently positive or negative connotations.
+
+    ¤: 25XX
+" (User ID: 1312206985529393182)
+        receive: Created at 2025-01-07 13:44:28, Edited at Never
+        $#💬│chat | chosen7k5: Me to gang
+
+
+DEBUG: Adding message to queue: On some shi nigga...
+DEBUG: Adding message to queue: ...
+https://discord.com/channels/1163962884049616946/1312660237999935580/1326184687604994170
+Analysis of:  <Message id=1326184687604994170 channel=<TextChannel id=1312660237999935580 name='💬│chat' position=11 nsfw=False news=False category_id=1163962885156913197> type=<MessageType.reply: 19> author=<Member id=1312206985529393182 name='chosen7k5' global_name='chosen7k5' bot=False nick=None guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24135>> flags=<MessageFlags value=0>>
+Analysis Result:  Neutral
+    Confidence: 85.7
+    Word: to
+    Reason: The word "to" is often used as a preposition, indicating motion or direction, which doesn't inherently carry positive, negative, or harmful connotations in the given context.
+
+    ¤: Reaction Perms
+" (User ID: 1326024466236702784)
+        receive: Created at 2025-01-07 13:44:30, Edited at Never
+        $#💬│chat | ball_foot195067: Ok
+
+
+DEBUG: Adding message to queue: What yalll go to school...
+DEBUG: Adding message to queue: these the times we can see who has no friends, bro...
+https://discord.com/channels/1163962884049616946/1312660237999935580/1326184693431009314
+Analysis of:  <Message id=1326184693431009314 channel=<TextChannel id=1312660237999935580 name='💬│chat' position=11 nsfw=False news=False category_id=1163962885156913197> type=<MessageType.default: 0> author=<Member id=1326024466236702784 name='ball_foot195067' global_name='Ball_foot195067' bot=False nick=None guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24135>> flags=<MessageFlags value=0>>
+Analysis Result:  Neutral
+Confidence: 95.7
+Word: ":"
+Reason: It is a punctuation mark used to separate phrases or clauses in a sentence, so it does not inherently hold a positive or negative connotation.
+
+    ¤: 25XX
+" (User ID: 1011761662698725506)
+        receive: Created at 2025-01-07 13:44:34, Edited at Never
+        $#💬│chat | 5starbroz: damn he makes like 10k
+
+
+DEBUG: Adding message to queue: ...
+https://discord.com/channels/1163962884049616946/1312660237999935580/1326184709960630304
+Analysis of:  <Message id=1326184709960630304 channel=<TextChannel id=1312660237999935580 name='💬│chat' position=11 nsfw=False news=False category_id=1163962885156913197> type=<MessageType.reply: 19> author=<Member id=1011761662698725506 name='5starbroz' global_name='5StarBroZ' bot=False nick=None guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24135>> flags=<MessageFlags value=0>>
+Analysis Result:  Negative
+   Confidence: 95.2
+   Word: damn
+   Reason: The word "damn" is considered inappropriate or offensive language.
+
+    ¤: Co-Owners
+" (User ID: 787382820419010612)
+        receive: Created at 2025-01-07 13:44:35, Edited at Never
+        $#💬│chat | lilpurk: Made the server active at 8
+
+
+DEBUG: Adding message to queue: Yo gang I am going to mess wit me anyways what did...
+https://discord.com/channels/1163962884049616946/1312660237999935580/1326184715400646727
+Analysis of:  <Message id=1326184715400646727 channel=<TextChannel id=1312660237999935580 name='💬│chat' position=11 nsfw=False news=False category_id=1163962885156913197> type=<MessageType.default: 0> author=<Member id=787382820419010612 name='lilpurk' global_name=None bot=False nick=None guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24135>> flags=<MessageFlags value=0>>
+Analysis Result:  Neutral
+Confidence: 99.9
+Word: Made
+Reason: The statement "made the server active at 8" is informational and does not have a positive or negative connotation, it simply states an action that was taken.
+
+    ¤: 25XX
+" (User ID: 1011761662698725506)
+        receive: Created at 2025-01-07 13:44:37, Edited at Never
+        $#💬│chat | 5starbroz: doe
+
+
+DEBUG: Adding message to queue: <:2xrakai:1239044586882470030> <:dukeOMG:129664972...
+DEBUG: Adding message to queue: bro...
+DEBUG: Adding message to queue: stop yapping...
+DEBUG: Adding message to queue: wytb...
+DEBUG: Adding message to queue: The gang...
+DEBUG: Adding message to queue: Fr...
+DEBUG: Adding message to queue: Niggas on some ho shit🥲😂😂...
+https://discord.com/channels/1163962884049616946/1312660237999935580/1326184722413654017
+Analysis of:  <Message id=1326184722413654017 channel=<TextChannel id=1312660237999935580 name='💬│chat' position=11 nsfw=False news=False category_id=1163962885156913197> type=<MessageType.default: 0> author=<Member id=1011761662698725506 name='5starbroz' global_name='5StarBroZ' bot=False nick=None guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24135>> flags=<MessageFlags value=0>>
+Analysis Result:  Neutral
+Confidence: 97.8
+Word: doe
+Reason: The word "doe" is a common noun referring to a female deer, and it does not inherently carry positive or negative connotations. It can be used in various contexts, including conversations about wildlife, nature, or hunting.
+
+    ¤: Server Booster
+" (User ID: 1270996756754333706)
+        receive: Created at 2025-01-07 13:44:37, Edited at Never
+        $#💬│chat | ritualennui: 😌🤍
+
+
+DEBUG: Adding message to queue: ...
+DEBUG: Adding message to queue: I got that Al...
+DEBUG: Adding message to queue: Far...
+DEBUG: Adding message to queue: Tryna beg naa fuc that...
+DEBUG: Adding message to queue: i actually ptso today...
+https://discord.com/channels/1163962884049616946/1312660237999935580/1326184724758265886
+Analysis of:  <Message id=1326184724758265886 channel=<TextChannel id=1312660237999935580 name='💬│chat' position=11 nsfw=False news=False category_id=1163962885156913197> type=<MessageType.reply: 19> author=<Member id=1270996756754333706 name='ritualennui' global_name='𝖘𝖎𝖑𝖑𝖞' bot=False nick=None guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24135>> flags=<MessageFlags value=0>>
+Analysis Result:  Neutral
+Confidence: 98.4
+Word: 😌
+Reason: Emoji expresses a relaxed and contented feeling, which can be interpreted in various ways depending on the context.
+
+    ¤: Reaction Perms
+" (User ID: 1326024466236702784)
+        receive: Created at 2025-01-07 13:44:41, Edited at Never
+        $#💬│chat | ball_foot195067: Damm
+
+
+DEBUG: Adding message to queue: Dang...
+DEBUG: Adding message to queue: You right😭...
+DEBUG: Adding message to queue: ...
+DEBUG: Adding message to queue: who are u exactly...
+DEBUG: Adding message to queue: ...
+https://discord.com/channels/1163962884049616946/1312660237999935580/1326184740675649587
+Analysis of:  <Message id=1326184740675649587 channel=<TextChannel id=1312660237999935580 name='💬│chat' position=11 nsfw=False news=False category_id=1163962885156913197> type=<MessageType.default: 0> author=<Member id=1326024466236702784 name='ball_foot195067' global_name='Ball_foot195067' bot=False nick=None guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24135>> flags=<MessageFlags value=0>>
+Analysis Result:  Neutral
+Confidence: 90.1
+Word: damm
+Reason: The word "damm" does not convey any inherently positive or negative sentiment in this context, but it is often used as an interjection to express frustration or annoyance. However, without further context, the sentiment can be interpreted as neutral or mixed, depending on the tone in which it was used.
+
+    ¤: Known
+" (User ID: 1064771410523869185)
+        receive: Created at 2025-01-07 13:44:44, Edited at Never
+        $#💬│chat | noorum__: you gay ?
+
+
+DEBUG: Adding message to queue: me...
+DEBUG: Adding message to queue: lmao...
+DEBUG: Adding message to queue: **Old password: YOU
+New password: the goat at taki...
+DEBUG: Adding message to queue: j...
+DEBUG: Adding message to queue: ...
+DEBUG: Adding message to queue: Do y’all work...
+DEBUG: Adding message to queue: anyways...
+https://discord.com/channels/1163962884049616946/1312660237999935580/1326184751320535090
+Analysis of:  <Message id=1326184751320535090 channel=<TextChannel id=1312660237999935580 name='💬│chat' position=11 nsfw=False news=False category_id=1163962885156913197> type=<MessageType.reply: 19> author=<Member id=1064771410523869185 name='noorum__' global_name='noorum.™' bot=False nick='noorum fr' guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24135>> flags=<MessageFlags value=0>>
+Analysis Result:  Neutral
+Confidence: 98.7
+Word: you gay ?
+Reason: This question is seeking personal information, which can be considered intrusive or inappropriate by some individuals. It does not inherently contain any positive or harmful content, but it may cause discomfort if the person being asked does not wish to discuss their sexual orientation.
+
+    ¤: Reaction Perms
+" (User ID: 1326024466236702784)
+        receive: Created at 2025-01-07 13:44:44, Edited at Never
+        $#💬│chat | ball_foot195067: Ok
+
+
+DEBUG: Adding message to queue: literally...
+DEBUG: Adding message to queue: You was in my stream yesterday...
+https://discord.com/channels/1163962884049616946/1312660237999935580/1326184753174675601
+Analysis of:  <Message id=1326184753174675601 channel=<TextChannel id=1312660237999935580 name='💬│chat' position=11 nsfw=False news=False category_id=1163962885156913197> type=<MessageType.default: 0> author=<Member id=1326024466236702784 name='ball_foot195067' global_name='Ball_foot195067' bot=False nick=None guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24135>> flags=<MessageFlags value=0>>
+Analysis Result:  Positive
+Confidence: 97.4
+Word: Hello, how are you today?
+Reason: The message is friendly and intended to initiate a conversation or check on the well-being of the recipient.
+
+    ¤: Server Booster
+" (User ID: 1270996756754333706)
+        receive: Created at 2025-01-07 13:44:53, Edited at Never
+        $#💬│chat | ritualennui: Nooooooooooo I’m soooo straight
+
+
+DEBUG: Adding message to queue: yes...
+DEBUG: Adding message to queue: ...
+https://discord.com/channels/1163962884049616946/1312660237999935580/1326184790587605114
+Analysis of:  <Message id=1326184790587605114 channel=<TextChannel id=1312660237999935580 name='💬│chat' position=11 nsfw=False news=False category_id=1163962885156913197> type=<MessageType.reply: 19> author=<Member id=1270996756754333706 name='ritualennui' global_name='𝖘𝖎𝖑𝖑𝖞' bot=False nick=None guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24135>> flags=<MessageFlags value=0>>
+Analysis Result:  Negative
+Confidence: 98.4
+Word: "No"
+Reason: The word "no" is typically associated with negation or refusal, which can be perceived as negative in many contexts.
+
+    ¤: spongebob
+" (User ID: 597888338267209729)
+        receive: Created at 2025-01-07 13:44:55, Edited at Never
+        $#💬│chat | onthenoti: Still needs to finish school
+
+
+DEBUG: Adding message to queue: lame ahh shit...
+DEBUG: Adding message to queue: Ima tell y’all using ya phone...
+DEBUG: Adding message to queue: i wasnt...
+DEBUG: Adding message to queue: trust...
+https://discord.com/channels/1163962884049616946/1312660237999935580/1326184797873246280
+Analysis of:  <Message id=1326184797873246280 channel=<TextChannel id=1312660237999935580 name='💬│chat' position=11 nsfw=False news=False category_id=1163962885156913197> type=<MessageType.reply: 19> author=<Member id=597888338267209729 name='onthenoti' global_name='gogogogo' bot=False nick=None guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24135>> flags=<MessageFlags value=0>>
+Analysis Result:  Neutral
+Confidence: 98.3
+Word: still
+Reason: The phrase "still needs to finish school" implies that the individual is not yet done with their education, which indicates an ongoing process rather than a positive or negative assessment.
+
+    ¤: Server Booster
+" (User ID: 1270996756754333706)
+        receive: Created at 2025-01-07 13:44:59, Edited at Never
+        $#💬│chat | ritualennui: O
+
+
+DEBUG: Adding message to queue: ...
+https://discord.com/channels/1163962884049616946/1312660237999935580/1326184817863168134
+Analysis of:  <Message id=1326184817863168134 channel=<TextChannel id=1312660237999935580 name='💬│chat' position=11 nsfw=False news=False category_id=1163962885156913197> type=<MessageType.reply: 19> author=<Member id=1270996756754333706 name='ritualennui' global_name='𝖘𝖎𝖑𝖑𝖞' bot=False nick=None guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24135>> flags=<MessageFlags value=0>>
+Analysis Result:  Neutral
+   Confidence: 98.6
+   Word: a
+   Reason: The word 'a' is used as an article in this sentence, and it does not inherently convey positive or negative connotations.
+
+    ¤: Co-Owners
+" (User ID: 787382820419010612)
+        receive: Created at 2025-01-07 13:45:02, Edited at Never
+        $#💬│chat | lilpurk: Me and Rakai at school rn
+
+
+DEBUG: Adding message to queue: Ok cuz it was ass...
+DEBUG: Adding message to queue: <@!1312206985529393182>...
+DEBUG: Adding message to queue: I got bars...
+DEBUG: Adding message to queue: ...
+DEBUG: Adding message to queue: cap...
+DEBUG: Adding message to queue: Bet...
+https://discord.com/channels/1163962884049616946/1312660237999935580/1326184830525767721
+Analysis of:  <Message id=1326184830525767721 channel=<TextChannel id=1312660237999935580 name='💬│chat' position=11 nsfw=False news=False category_id=1163962885156913197> type=<MessageType.default: 0> author=<Member id=787382820419010612 name='lilpurk' global_name=None bot=False nick=None guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24135>> flags=<MessageFlags value=0>>
+Analysis Result:  Neutral
+   Confidence: 97.8
+   Word: me, rn, school
+   Reason: The sentence describes a current situation involving the user and another person (Rakai) in a location (school). Without additional context, it is unclear if the sentiment behind the statement is positive or negative.
+
+    ¤: Known
+" (User ID: 1064771410523869185)
+        receive: Created at 2025-01-07 13:45:03, Edited at Never
+        $#💬│chat | noorum__: Ight that emoji look zest
+
+
+DEBUG: Adding message to queue: ...
+DEBUG: Adding message to queue: Type shii😭😂😂...
+DEBUG: Adding message to queue: lemme hear sum...
+DEBUG: Adding message to queue: im playin chattt...
+DEBUG: Adding message to queue: 😭😭...
+https://discord.com/channels/1163962884049616946/1312660237999935580/1326184833172373607
+Analysis of:  <Message id=1326184833172373607 channel=<TextChannel id=1312660237999935580 name='💬│chat' position=11 nsfw=False news=False category_id=1163962885156913197> type=<MessageType.reply: 19> author=<Member id=1064771410523869185 name='noorum__' global_name='noorum.™' bot=False nick='noorum fr' guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24135>> flags=<MessageFlags value=0>>
+Analysis Result:  Neutral
+Confidence: 98.7
+Word: ight
+Reason: The word "ight" is a colloquial term, commonly used in informal written or spoken English to express agreement, affirmation, or approval. It can be interpreted as neutral because it does not inherently carry positive or negative connotations.
+
+    ¤: 25XX
+" (User ID: 1235763977544405097)
+        receive: Created at 2025-01-07 13:45:03, Edited at Never
+        $#💬│chat | travis_scott_from_walmart: Nah
+
+
+DEBUG: Adding message to queue: ,bday...
+DEBUG: Adding message to queue: ...
+https://discord.com/channels/1163962884049616946/1312660237999935580/1326184833809911850
+Analysis of:  <Message id=1326184833809911850 channel=<TextChannel id=1312660237999935580 name='💬│chat' position=11 nsfw=False news=False category_id=1163962885156913197> type=<MessageType.default: 0> author=<Member id=1235763977544405097 name='travis_scott_from_walmart' global_name='FE4R' bot=False nick=None guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24135>> flags=<MessageFlags value=0>>
+Analysis Result:  Neutral
+Confidence: 89.5
+Word: Nah
+
+    ¤: Reaction Perms
+" (User ID: 1326024466236702784)
+        receive: Created at 2025-01-07 13:45:06, Edited at Never
+        $#💬│chat | ball_foot195067: Fr
+
+
+DEBUG: Adding message to queue: my bday is today...
+DEBUG: Adding message to queue: is jus early asl rn...
+https://discord.com/channels/1163962884049616946/1312660237999935580/1326184844891262996
+Analysis of:  <Message id=1326184844891262996 channel=<TextChannel id=1312660237999935580 name='💬│chat' position=11 nsfw=False news=False category_id=1163962885156913197> type=<MessageType.default: 0> author=<Member id=1326024466236702784 name='ball_foot195067' global_name='Ball_foot195067' bot=False nick=None guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24135>> flags=<MessageFlags value=0>>
+Analysis Result:  Neutral
+Confidence: 98.5
+Word: a
+Reason: The letter 'a' does not carry inherent positive or negative connotations, it is a basic letter of the alphabet and serves as a placeholder in this specific message.
+
+    ¤: Co-Owners
+" (User ID: 787382820419010612)
+        receive: Created at 2025-01-07 13:45:06, Edited at Never
+        $#💬│chat | lilpurk: He sleeping
+
+
+DEBUG: Adding message to queue: ...
+https://discord.com/channels/1163962884049616946/1312660237999935580/1326184845826588682
+Analysis of:  <Message id=1326184845826588682 channel=<TextChannel id=1312660237999935580 name='💬│chat' position=11 nsfw=False news=False category_id=1163962885156913197> type=<MessageType.default: 0> author=<Member id=787382820419010612 name='lilpurk' global_name=None bot=False nick=None guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24135>> flags=<MessageFlags value=0>>
+Analysis Result:  Neutral
+Confidence: 98.5
+Word: sleeping
+Reason: The content simply states that someone is asleep, which is a neutral action.
+
+    ¤: 25XX
+" (User ID: 1167926867030970502)
+        receive: Created at 2025-01-07 13:45:06, Edited at Never
+        $#💬│chat | smokingsalo: Rakai had a ponk on stream last night
+
+
+DEBUG: Adding message to queue: pluto i put that on jesus christ my bday is today...
+DEBUG: Adding message to queue: What should I stream today yall like on some rs...
+DEBUG: Adding message to queue: Wsg chat...
+https://discord.com/channels/1163962884049616946/1312660237999935580/1326184847315832943
+Analysis of:  <Message id=1326184847315832943 channel=<TextChannel id=1312660237999935580 name='💬│chat' position=11 nsfw=False news=False category_id=1163962885156913197> type=<MessageType.default: 0> author=<Member id=1167926867030970502 name='smokingsalo' global_name='Ark' bot=False nick=None guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24135>> flags=<MessageFlags value=0>>
+Analysis Result:  Neutral
+Confidence: 98.5
+Word: Rakai had a ponk
+
+    ¤: Reaction Perms
+" (User ID: 1326024466236702784)
+        receive: Created at 2025-01-07 13:45:09, Edited at Never
+        $#💬│chat | ball_foot195067:
+
+
+DEBUG: Adding message to queue: I got a big pump, I spin blocks with a filled tank...
+DEBUG: Adding message to queue: collab with lebron...
+DEBUG: Adding message to queue: Nigga you was born on the 7th of a january😭...
+https://discord.com/channels/1163962884049616946/1312660237999935580/1326184859240108044
+Analysis of:  <Message id=1326184859240108044 channel=<TextChannel id=1312660237999935580 name='💬│chat' position=11 nsfw=False news=False category_id=1163962885156913197> type=<MessageType.default: 0> author=<Member id=1326024466236702784 name='ball_foot195067' global_name='Ball_foot195067' bot=False nick=None guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24135>> flags=<MessageFlags value=0>>
+Analysis Result:  Neutral
+   Confidence: 85.7
+   Word: "test"
+   Reason: The word "test" is often used to denote a trial, examination, or evaluation. It doesn't inherently carry positive or negative connotations.
+
+    ¤: Reaction Perms
+" (User ID: 1326024466236702784)
+        receive: Created at 2025-01-07 13:45:11, Edited at Never
+        $#💬│chat | ball_foot195067:
+
+
+DEBUG: Adding message to queue: ye....
+DEBUG: Adding message to queue: ...
+https://discord.com/channels/1163962884049616946/1312660237999935580/1326184866789724312
+Analysis of:  <Message id=1326184866789724312 channel=<TextChannel id=1312660237999935580 name='💬│chat' position=11 nsfw=False news=False category_id=1163962885156913197> type=<MessageType.default: 0> author=<Member id=1326024466236702784 name='ball_foot195067' global_name='Ball_foot195067' bot=False nick=None guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24135>> flags=<MessageFlags value=0>>
+Analysis Result:  Negative
+   Confidence: 98.1
+   Word: hate
+   Reason: The word "hate" carries a negative connotation and is used to express strong dislike or antipathy, which is not suitable for our community.
+
+    ¤: Reaction Perms
+" (User ID: 1326024466236702784)
+        receive: Created at 2025-01-07 13:45:13, Edited at Never
+        $#💬│chat | ball_foot195067:
+
+
+DEBUG: Adding message to queue: Happy birthday gangooooo...
+https://discord.com/channels/1163962884049616946/1312660237999935580/1326184874633330770
+Analysis of:  <Message id=1326184874633330770 channel=<TextChannel id=1312660237999935580 name='💬│chat' position=11 nsfw=False news=False category_id=1163962885156913197> type=<MessageType.default: 0> author=<Member id=1326024466236702784 name='ball_foot195067' global_name='Ball_foot195067' bot=False nick=None guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24135>> flags=<MessageFlags value=0>>
+Analysis Result:  Positive
+   Confidence: 95.2
+   Word: excellent
+   Reason: The word "excellent" is being used to describe a positive quality or characteristic of something.
+
+    ¤: 25XX
+" (User ID: 1257740341696790561)
+        receive: Created at 2025-01-07 13:45:15, Edited at Never
+        $#💬│chat | kingamyra_: I’m streaming too, hope yall have a good stream!!
+
+
+DEBUG: Adding message to queue: wait this ate...
+DEBUG: Adding message to queue: yeeee...
+https://discord.com/channels/1163962884049616946/1312660237999935580/1326184883332059180
+Analysis of:  <Message id=1326184883332059180 channel=<TextChannel id=1312660237999935580 name='💬│chat' position=11 nsfw=False news=False category_id=1163962885156913197> type=<MessageType.reply: 19> author=<Member id=1257740341696790561 name='kingamyra_' global_name='Kingamyra' bot=False nick=None guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24135>> flags=<MessageFlags value=0>>
+Analysis Result:  Positive
+Confidence: 95.8
+Word: hope
+Reason: The user is expressing optimism and wish for others to enjoy their stream, indicating positive sentiment.
+
+    ¤: 25XX
+" (User ID: 1162889031231754300)
+        receive: Created at 2025-01-07 13:45:18, Edited at Never
+        $#💬│chat | darealedot4x: Get off dat phone an pay attention 💀
+
+
+DEBUG: Adding message to queue: More?...
+DEBUG: Adding message to queue: Yeeeeee...
+https://discord.com/channels/1163962884049616946/1312660237999935580/1326184896024281171
+Analysis of:  <Message id=1326184896024281171 channel=<TextChannel id=1312660237999935580 name='💬│chat' position=11 nsfw=False news=False category_id=1163962885156913197> type=<MessageType.default: 0> author=<Member id=1162889031231754300 name='darealedot4x' global_name='DaRealEdot4x' bot=False nick=None guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24135>> flags=<MessageFlags value=0>>
+Analysis Result:  Neutral
+Confidence: 85.9
+Word: get
+Reason: The sentence is expressing a command or instruction, which is a neutral form of communication.
+
+    ¤: Co-Owners
+" (User ID: 787382820419010612)
+        receive: Created at 2025-01-07 13:45:19, Edited at Never
+        $#💬│chat | lilpurk: ,rs
+
+
+DEBUG: Adding message to queue: ...
+DEBUG: Adding message to queue: u gon make the whole thing?...
+DEBUG: Adding message to queue: Imma give more...
+https://discord.com/channels/1163962884049616946/1312660237999935580/1326184898901442721
+Analysis of:  <Message id=1326184898901442721 channel=<TextChannel id=1312660237999935580 name='💬│chat' position=11 nsfw=False news=False category_id=1163962885156913197> type=<MessageType.default: 0> author=<Member id=787382820419010612 name='lilpurk' global_name=None bot=False nick=None guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24135>> flags=<MessageFlags value=0>>
+Analysis Result:  Neutral
+Confidence: 98.7
+Word: Hello World!
+Reason: The message does not contain any harmful or positive connotations; it is a common greeting used in programming and can be perceived as friendly or informative.
+
+    ¤: bleed
+" (User ID: 593921296224747521)
+        receive: Created at 2025-01-07 13:45:19, Edited at Never
+        $#💬│chat | bleed#1854:
+
+
+DEBUG: Adding message to queue: nah fr doe i ptso everyday...
+https://discord.com/channels/1163962884049616946/1312660237999935580/1326184899094253569
+Analysis of:  <Message id=1326184899094253569 channel=<TextChannel id=1312660237999935580 name='💬│chat' position=11 nsfw=False news=False category_id=1163962885156913197> type=<MessageType.reply: 19> author=<Member id=593921296224747521 name='bleed' global_name=None bot=True nick='bleed' guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24135>> flags=<MessageFlags value=0>>
+Analysis Result:  Neutral
+   Confidence: 98.4
+   Word: "!"
+   Reason: This punctuation mark is commonly used to express excitement or emphasis, and it is neutral in nature as it does not carry any inherent positive or negative connotations.
+
+    ¤: 25XX
+" (User ID: 1062137699143790744)
+        receive: Created at 2025-01-07 13:45:21, Edited at Never
+        $#💬│chat | twitchmannoo: What’s yo user
+
+
+DEBUG: Adding message to queue: except fridays cause i wear hello kitty pjs...
+DEBUG: Adding message to queue: 💀...
+DEBUG: Adding message to queue: I’m not gonna lie I’ll be getting no viewers in my...
+DEBUG: Adding message to queue: https://tenor.com/view/no-one-cares-i-dont-care-id...
+https://discord.com/channels/1163962884049616946/1312660237999935580/1326184910431584318
+Analysis of:  <Message id=1326184910431584318 channel=<TextChannel id=1312660237999935580 name='💬│chat' position=11 nsfw=False news=False category_id=1163962885156913197> type=<MessageType.reply: 19> author=<Member id=1062137699143790744 name='twitchmannoo' global_name='tmgmanno0' bot=False nick=None guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24135>> flags=<MessageFlags value=0>>
+Analysis Result:  Neutral
+Confidence: 98.5
+Word: 'yo'
+Reason: It is a casual greeting, not inherently positive or negative in this context.
+
+    ¤: Co-Owners
+" (User ID: 787382820419010612)
+        receive: Created at 2025-01-07 13:45:25, Edited at Never
+        $#💬│chat | lilpurk: ,ban <@1097969736127615028>
+
+
+DEBUG: Adding message to queue: its corny when u do it...
+DEBUG: Adding message to queue: period...
+https://discord.com/channels/1163962884049616946/1312660237999935580/1326184923341520908
+Analysis of:  <Message id=1326184923341520908 channel=<TextChannel id=1312660237999935580 name='💬│chat' position=11 nsfw=False news=False category_id=1163962885156913197> type=<MessageType.default: 0> author=<Member id=787382820419010612 name='lilpurk' global_name=None bot=False nick=None guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24135>> flags=<MessageFlags value=0>>
+Analysis Result:  Neutral
+   Confidence: 99.9
+   Word: ban
+   Reason: In this context, "ban" is being used in the sense of a restriction or penalty, which could be interpreted as neutral or even administrative in nature, rather than intrinsically positive or negative.
+
+    ¤: Reaction Perms
+" (User ID: 1326024466236702784)
+        receive: Created at 2025-01-07 13:45:25, Edited at Never
+        $#💬│chat | ball_foot195067: Fr
+
+
+DEBUG: Adding message to queue: ur js a hater...
+DEBUG: Adding message to queue: ...
+DEBUG: Adding message to queue: it was genuinely corny 😭...
+https://discord.com/channels/1163962884049616946/1312660237999935580/1326184924532703293
+Analysis of:  <Message id=1326184924532703293 channel=<TextChannel id=1312660237999935580 name='💬│chat' position=11 nsfw=False news=False category_id=1163962885156913197> type=<MessageType.default: 0> author=<Member id=1326024466236702784 name='ball_foot195067' global_name='Ball_foot195067' bot=False nick=None guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24135>> flags=<MessageFlags value=0>>
+Analysis Result:  Neutral
+Confidence: 98.5
+Word: "!"
+Reason: This punctuation mark is used to express excitement or emphasis, and doesn't inherently convey positive or negative connotations.
+
+    ¤: bleed
+" (User ID: 593921296224747521)
+        receive: Created at 2025-01-07 13:45:28, Edited at Never
+        $#💬│chat | bleed#1854:
+
+
+DEBUG: Adding message to queue: I’m really just doin’ this for Martin. Grab her li...
+DEBUG: Adding message to queue: ...
+https://discord.com/channels/1163962884049616946/1312660237999935580/1326184936671019092
+Analysis of:  <Message id=1326184936671019092 channel=<TextChannel id=1312660237999935580 name='💬│chat' position=11 nsfw=False news=False category_id=1163962885156913197> type=<MessageType.default: 0> author=<Member id=593921296224747521 name='bleed' global_name=None bot=True nick='bleed' guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24135>> flags=<MessageFlags value=0>>
+Analysis Result:  Neutral
+   Confidence: 98.5
+   Word: Hello!
+   Reason: The word "Hello" itself does not have a positive or negative connotation, it is typically used as a greeting and is neutral in nature.
+
+    ¤: Reaction Perms
+" (User ID: 1326024466236702784)
+        receive: Created at 2025-01-07 13:45:28, Edited at Never
+        $#💬│chat | ball_foot195067: Tho
+
+
+DEBUG: Adding message to queue: ...
+https://discord.com/channels/1163962884049616946/1312660237999935580/1326184937275133982
+Analysis of:  <Message id=1326184937275133982 channel=<TextChannel id=1312660237999935580 name='💬│chat' position=11 nsfw=False news=False category_id=1163962885156913197> type=<MessageType.default: 0> author=<Member id=1326024466236702784 name='ball_foot195067' global_name='Ball_foot195067' bot=False nick=None guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24136>> flags=<MessageFlags value=0>>
+Analysis Result:  Neutral
+Confidence: 98.5
+Word: Tho
+Reason: "Tho" is a contraction of "though", which is used to indicate a contrast or concession, and in this context it does not carry inherently positive or negative connotations.
+
+    ¤: Co-Owners
+" (User ID: 787382820419010612)
+        receive: Created at 2025-01-07 13:45:35, Edited at Never
+        $#💬│chat | lilpurk: Idk why you reacting
+
+
+DEBUG: Adding message to queue: rakai cut his sh...
+DEBUG: Adding message to queue: Ye...
+DEBUG: Adding message to queue: save these for different songss...
+DEBUG: Adding message to queue: OH NOO...
+https://discord.com/channels/1163962884049616946/1312660237999935580/1326184968145338418
+Analysis of:  <Message id=1326184968145338418 channel=<TextChannel id=1312660237999935580 name='💬│chat' position=11 nsfw=False news=False category_id=1163962885156913197> type=<MessageType.default: 0> author=<Member id=787382820419010612 name='lilpurk' global_name=None bot=False nick=None guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24136>> flags=<MessageFlags value=0>>
+Analysis Result:  Neutral
+Confidence: 98.4
+Word: idk
+Reason: This phrase is often used to express uncertainty or lack of knowledge, which can be common in a variety of conversations. It doesn't inherently carry positive or negative connotations.
+
+    ¤: Known
+" (User ID: 1064771410523869185)
+        receive: Created at 2025-01-07 13:45:36, Edited at Never
+        $#💬│chat | noorum__: # banned at 8
+
+
+DEBUG: Adding message to queue: HES CHOPPED...
+DEBUG: Adding message to queue: Yo will I get banned from this chat if I asked for...
+DEBUG: Adding message to queue: OMFG...
+DEBUG: Adding message to queue: I probably should’ve said that...
+DEBUG: Adding message to queue: Ok bet sack...
+https://discord.com/channels/1163962884049616946/1312660237999935580/1326184971722817707
+Analysis of:  <Message id=1326184971722817707 channel=<TextChannel id=1312660237999935580 name='💬│chat' position=11 nsfw=False news=False category_id=1163962885156913197> type=<MessageType.default: 0> author=<Member id=1064771410523869185 name='noorum__' global_name='noorum.™' bot=False nick='noorum fr' guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24136>> flags=<MessageFlags value=0>>
+Analysis Result:  Negative
+   Confidence: 95.6
+   Word: banned
+   Reason: The word "banned" implies a restriction or prohibition, which is generally associated with negative contexts in conversations on this server as it pertains to rules and moderation.
+
+    ¤: Known
+" (User ID: 1064771410523869185)
+        receive: Created at 2025-01-07 13:45:38, Edited at Never
+        $#💬│chat | noorum__: 🤣🤣🤣🤣
+
+
+DEBUG: Adding message to queue: he still kinda fine...
+DEBUG: Adding message to queue: Shouldn’t have said that...
+DEBUG: Adding message to queue: so am i #?????...
+DEBUG: Adding message to queue: lmao...
+https://discord.com/channels/1163962884049616946/1312660237999935580/1326184979998179358
+Analysis of:  <Message id=1326184979998179358 channel=<TextChannel id=1312660237999935580 name='💬│chat' position=11 nsfw=False news=False category_id=1163962885156913197> type=<MessageType.default: 0> author=<Member id=1064771410523869185 name='noorum__' global_name='noorum.™' bot=False nick='noorum fr' guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24136>> flags=<MessageFlags value=0>>
+Analysis Result:  Neutral
+Confidence: 99.9
+Word: 🤣
+Reason: Emoticons are generally used to express emotion, humor, or reactions, and do not inherently carry a positive or negative connotation. In this context, it seems to be used as a form of humor or amusement.
+
+    ¤: Reaction Perms
+" (User ID: 1326024466236702784)
+        receive: Created at 2025-01-07 13:45:38, Edited at Never
+        $#💬│chat | ball_foot195067: Ok
+
+
+DEBUG: Adding message to queue: Jo mama...
+DEBUG: Adding message to queue: ikdr...
+https://discord.com/channels/1163962884049616946/1312660237999935580/1326184981659259052
+Analysis of:  <Message id=1326184981659259052 channel=<TextChannel id=1312660237999935580 name='💬│chat' position=11 nsfw=False news=False category_id=1163962885156913197> type=<MessageType.default: 0> author=<Member id=1326024466236702784 name='ball_foot195067' global_name='Ball_foot195067' bot=False nick=None guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24136>> flags=<MessageFlags value=0>>
+Analysis Result:  Positive
+Confidence: 98.5
+Word: amazing
+Reason: The user expresses admiration for a particular event or experience, demonstrating enthusiasm and positive emotions.
+
+    ¤: Server Booster
+" (User ID: 1270996756754333706)
+        receive: Created at 2025-01-07 13:45:40, Edited at Never
+        $#💬│chat | ritualennui: You slow friend I been told you I was gay this my what… tenth time saying it
+
+
+DEBUG: Adding message to queue: ...
+DEBUG: Adding message to queue: Yo add me on discord...
+DEBUG: Adding message to queue: So we can get in a call...
+https://discord.com/channels/1163962884049616946/1312660237999935580/1326184987430752326
+Analysis of:  <Message id=1326184987430752326 channel=<TextChannel id=1312660237999935580 name='💬│chat' position=11 nsfw=False news=False category_id=1163962885156913197> type=<MessageType.reply: 19> author=<Member id=1270996756754333706 name='ritualennui' global_name='𝖘𝖎𝖑𝖑𝖞' bot=False nick=None guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24136>> flags=<MessageFlags value=0>>
+Analysis Result:  Neutral
+Confidence: 99.5
+Word: friend
+Reason: The user is referring to the person they are conversing with as a "friend". This term is neutral in nature and does not indicate positivity, negativity, or harmfulness.
+
+    ¤: Co-Owners
+" (User ID: 787382820419010612)
+        receive: Created at 2025-01-07 13:45:41, Edited at Never
+        $#💬│chat | lilpurk: This is a dictatorship
+
+
+DEBUG: Adding message to queue: ################?????...
+DEBUG: Adding message to queue: wtf...
+DEBUG: Adding message to queue: 🫤...
+DEBUG: Adding message to queue: this is not roblox...
+https://discord.com/channels/1163962884049616946/1312660237999935580/1326184992186961981
+Analysis of:  <Message id=1326184992186961981 channel=<TextChannel id=1312660237999935580 name='💬│chat' position=11 nsfw=False news=False category_id=1163962885156913197> type=<MessageType.default: 0> author=<Member id=787382820419010612 name='lilpurk' global_name=None bot=False nick=None guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24136>> flags=<MessageFlags value=0>>
+Analysis Result:  Negative
+Confidence: 98.1
+Word: dictatorship
+Reason: A dictatorship is a form of government where power is concentrated in the hands of one individual, which can lead to lack of freedom and human rights.
+
+    ¤: spongebob
+" (User ID: 597888338267209729)
+        receive: Created at 2025-01-07 13:45:52, Edited at Never
+        $#💬│chat | onthenoti: # I speak for 25xx that we want a sophiaa x rakai stream again😁
+
+
+DEBUG: Adding message to queue: hi noor...
+DEBUG: Adding message to queue: NUMBERRRRRRRRRRRRRRRR...
+DEBUG: Adding message to queue: omg...
+https://discord.com/channels/1163962884049616946/1312660237999935580/1326185037674053746
+Analysis of:  <Message id=1326185037674053746 channel=<TextChannel id=1312660237999935580 name='💬│chat' position=11 nsfw=False news=False category_id=1163962885156913197> type=<MessageType.default: 0> author=<Member id=597888338267209729 name='onthenoti' global_name='gogogogo' bot=False nick=None guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24136>> flags=<MessageFlags value=0>>
+Analysis Result:  Positive
+Confidence: 90.7
+Word: smile
+Reason: The use of a smiley face indicates positive emotions and enthusiasm, suggesting the user is happy about the prospect of a Sophiaa x Rakai stream again.
+
+    ¤: 25XX
+" (User ID: 1167926867030970502)
+        receive: Created at 2025-01-07 13:45:54, Edited at Never
+        $#💬│chat | smokingsalo: Rakai don’t know you
+
+
+DEBUG: Adding message to queue: wsp...
+DEBUG: Adding message to queue: ...
+DEBUG: Adding message to queue: Told her family to put the money in the bag, or I’...
+https://discord.com/channels/1163962884049616946/1312660237999935580/1326185046566240297
+Analysis of:  <Message id=1326185046566240297 channel=<TextChannel id=1312660237999935580 name='💬│chat' position=11 nsfw=False news=False category_id=1163962885156913197> type=<MessageType.default: 0> author=<Member id=1167926867030970502 name='smokingsalo' global_name='Ark' bot=False nick=None guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24136>> flags=<MessageFlags value=0>>
+Analysis Result:  Neutral
+Confidence: 95.1
+Word: don’t
+Reason: The sentence "Rakai don’t know you" is a statement about not knowing something, and it does not contain any inherently positive or negative connotations in this context.
+
+    ¤: 25XX
+" (User ID: 1202845309399732284)
+        receive: Created at 2025-01-07 13:45:58, Edited at Never
+        $#💬│chat | ianii01: Hey y’all
+
+
+https://discord.com/channels/1163962884049616946/1312660237999935580/1326185063259443274
+Analysis of:  <Message id=1326185063259443274 channel=<TextChannel id=1312660237999935580 name='💬│chat' position=11 nsfw=False news=False category_id=1163962885156913197> type=<MessageType.default: 0> author=<Member id=1202845309399732284 name='ianii01' global_name='IamHimXO' bot=False nick=None guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24136>> flags=<MessageFlags value=0>>
+Analysis Result:  Positive
+Confidence: 98.5
+Word: y'all
+Reason: The use of "y'all" is common and friendly, suggesting a positive and inclusive tone in the message.
+
+    ¤: 25XX
+" (User ID: 629133714915459134)
+        receive: Created at 2025-01-07 13:46:01, Edited at Never
+        $#🔢│counting | icecole: 8
+
+
+DEBUG: Adding message to queue: the bio kinda crazy.....
+DEBUG: Adding message to queue: nah click it...
+https://discord.com/channels/1163962884049616946/1272203784247971872/1326185075636961300
+Analysis of:  <Message id=1326185075636961300 channel=<TextChannel id=1272203784247971872 name='🔢│counting' position=20 nsfw=False news=False category_id=1260685190255087667> type=<MessageType.default: 0> author=<Member id=629133714915459134 name='icecole' global_name='Ice Cole' bot=False nick=None guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24136>> flags=<MessageFlags value=0>>
+Analysis Result:  Neutral
+   Confidence: 95.2
+   Word: .
+   Reason: The dot does not carry any inherent positive or negative connotations, it serves as a punctuation mark in the text.
+
+    ¤: Server Booster
+" (User ID: 1270996756754333706)
+        receive: Created at 2025-01-07 13:46:02, Edited at Never
+        $#💬│chat | ritualennui: Like my god
+
+
+DEBUG: Adding message to queue: no bitch...
+DEBUG: Adding message to queue: ...
+DEBUG: Adding message to queue: Yo twinn add me on Discord so I can have you and h...
+https://discord.com/channels/1163962884049616946/1312660237999935580/1326185081869701232
+Analysis of:  <Message id=1326185081869701232 channel=<TextChannel id=1312660237999935580 name='💬│chat' position=11 nsfw=False news=False category_id=1163962885156913197> type=<MessageType.reply: 19> author=<Member id=1270996756754333706 name='ritualennui' global_name='𝖘𝖎𝖑𝖑𝖞' bot=False nick=None guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24136>> flags=<MessageFlags value=0>>
+Analysis Result:  Neutral
+Confidence: 95.7
+Word: Like
+Reason: The word "like" is used here to express preference or approval, but it doesn't contain any explicit positive or negative connotations in this context. It's a neutral term that can be used in various ways.
+
+    ¤: Reaction Perms
+" (User ID: 1326024466236702784)
+        receive: Created at 2025-01-07 13:46:03, Edited at Never
+        $#💬│chat | ball_foot195067: Bet
+
+
+DEBUG: Adding message to queue: no...
+DEBUG: Adding message to queue: seems like this mf woke up early on bs...
+DEBUG: Adding message to queue: Bet that sht crusted....
+DEBUG: Adding message to queue: im str8...
+DEBUG: Adding message to queue: Happy bday gangy...
+DEBUG: Adding message to queue: ts...
+https://discord.com/channels/1163962884049616946/1312660237999935580/1326185083488702464
+Analysis of:  <Message id=1326185083488702464 channel=<TextChannel id=1312660237999935580 name='💬│chat' position=11 nsfw=False news=False category_id=1163962885156913197> type=<MessageType.default: 0> author=<Member id=1326024466236702784 name='ball_foot195067' global_name='Ball_foot195067' bot=False nick=None guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24136>> flags=<MessageFlags value=0>>
+Analysis Result:  Positive
+   Confidence: 100
+   Word: excellent
+   Reason: The word "excellent" implies something that is superior or exceptional, and the context here suggests a positive evaluation.
+
+    ¤: 25XX
+" (User ID: 1257740341696790561)
+        receive: Created at 2025-01-07 13:46:02, Edited at Never
+        $#💬│chat | kingamyra_: Lmaooo
+
+
+DEBUG: Adding message to queue: nah ts jus hella weird...
+DEBUG: Adding message to queue: dont put long texts...
+DEBUG: Adding message to queue: deactivate ur acc...
+DEBUG: Adding message to queue: you defending her huh...
+DEBUG: Adding message to queue: Can smell that sht through the screen...
+DEBUG: Adding message to queue: wytb lil bro...
+DEBUG: Adding message to queue: I wasn’t even talking to you g...
+DEBUG: Adding message to queue: i said its weird...
+DEBUG: Adding message to queue: 😭...
+https://discord.com/channels/1163962884049616946/1312660237999935580/1326185079902568490
+Analysis of:  <Message id=1326185079902568490 channel=<TextChannel id=1312660237999935580 name='💬│chat' position=11 nsfw=False news=False category_id=1163962885156913197> type=<MessageType.default: 0> author=<Member id=1257740341696790561 name='kingamyra_' global_name='Kingamyra' bot=False nick=None guild=<Guild id=1163962884049616946 name='25XX' chunked=False member_count=24136>> flags=<MessageFlags value=0>>
+Analysis Result:  Neutral
+Confidence: 95.0
+Word: lmao
+Reason: "lmao" is an internet slang that stands for Laughing My Ass Off, which expresses humor or amusement. However, without the context of the entire message, it's hard to definitively classify it as positive or negative. It can be perceived as both depending on the tone and intent behind its use.
+
+    ¤: 20XRA (Level 20)
+" (User ID: 1260698644663894111)
+        receive: Created at 2025-01-07 13:46:07, Edited at Never
+        $#💬│chat | thekidcenat22:
+
+
+DEBUG: Adding message to queue: ...
+DEBUG: Adding message to queue: rakai looks like a boogie wit da hoodie now...
+DEBUG: Adding message to queue: dumbass...
+DEBUG: Adding message to queue: Yoo chat whatsapp group would be fire 🔥 i think😂...
+DEBUG: Adding message to queue: I wasn’t even talking to you g I told her to click...
+DEBUG: Adding message to queue: im sayinn...
+DEBUG: Adding message to queue: <@!1193070673543843902>...
+Exception in thread Thread-1 (input_thread):
+Traceback (most recent call last):
+  File "C:\Users\leonv\AppData\Local\Programs\Python\Python310\lib\threading.py", line 1009, in _bootstrap_inner
+    self.run()
+  File "C:\Users\leonv\AppData\Local\Programs\Python\Python310\lib\threading.py", line 946, in run
+    self._target(*self._args, **self._kwargs)
+  File "c:\xampp\htdocs\dddd\self.py", line 202, in input_thread
+    user_input = input()
+EOFError
+Traceback (most recent call last):
+  File "c:\xampp\htdocs\dddd\self.py", line 256, in <module>
+    asyncio.run(main())
+  File "C:\Users\leonv\AppData\Local\Programs\Python\Python310\lib\asyncio\runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "C:\Users\leonv\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 628, in run_until_complete
+    self.run_forever()
+  File "C:\Users\leonv\AppData\Local\Programs\Python\Python310\lib\asyncio\windows_events.py", line 316, in run_forever
+    super().run_forever()
+  File "C:\Users\leonv\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 595, in run_forever
+    self._run_once()
+  File "C:\Users\leonv\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 1845, in _run_once
+    event_list = self._selector.select(timeout)
+  File "C:\Users\leonv\AppData\Local\Programs\Python\Python310\lib\asyncio\windows_events.py", line 434, in select
+    self._poll(timeout)
+  File "C:\Users\leonv\AppData\Local\Programs\Python\Python310\lib\asyncio\windows_events.py", line 783, in _poll
+    status = _overlapped.GetQueuedCompletionStatus(self._iocp, ms)
+KeyboardInterrupt
+Fatal error on SSL transport
+protocol: <asyncio.sslproto.SSLProtocol object at 0x00000251B1F1C430>
+transport: <_ProactorSocketTransport fd=840 read=<_OverlappedFuture cancelled>>
+Traceback (most recent call last):
+  File "C:\Users\leonv\AppData\Local\Programs\Python\Python310\lib\asyncio\sslproto.py", line 684, in _process_write_backlog
+    self._transport.write(chunk)
+  File "C:\Users\leonv\AppData\Local\Programs\Python\Python310\lib\asyncio\proactor_events.py", line 361, in write
+    self._loop_writing(data=bytes(data))
+  File "C:\Users\leonv\AppData\Local\Programs\Python\Python310\lib\asyncio\proactor_events.py", line 397, in _loop_writing
+    self._write_fut = self._loop._proactor.send(self._sock, data)
+AttributeError: 'NoneType' object has no attribute 'send'
+Exception ignored in: <function _SSLProtocolTransport.__del__ at 0x00000251B0343910>
+Traceback (most recent call last):
+  File "C:\Users\leonv\AppData\Local\Programs\Python\Python310\lib\asyncio\sslproto.py", line 321, in __del__
+  File "C:\Users\leonv\AppData\Local\Programs\Python\Python310\lib\asyncio\sslproto.py", line 316, in close
+  File "C:\Users\leonv\AppData\Local\Programs\Python\Python310\lib\asyncio\sslproto.py", line 593, in _start_shutdown
+  File "C:\Users\leonv\AppData\Local\Programs\Python\Python310\lib\asyncio\sslproto.py", line 598, in _write_appdata
+  File "C:\Users\leonv\AppData\Local\Programs\Python\Python310\lib\asyncio\sslproto.py", line 706, in _process_write_backlog
+  File "C:\Users\leonv\AppData\Local\Programs\Python\Python310\lib\asyncio\sslproto.py", line 720, in _fatal_error
+  File "C:\Users\leonv\AppData\Local\Programs\Python\Python310\lib\asyncio\proactor_events.py", line 151, in _force_close
+  File "C:\Users\leonv\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 745, in call_soon
+  File "C:\Users\leonv\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 510, in _check_closed
+RuntimeError: Event loop is closed
+PS C:\xampp\htdocs\dddd> 
