@@ -25,16 +25,18 @@ RESET_COLOR = Style.RESET_ALL
 # Initialize the Ollama client
 client = ollama.Client(host='http://127.0.0.1:11434')
 
+
+format_d = 'Positive\nConfidence: 97.3\nWord: love\nReason: Love is beautiful.'
+
 # Define the query data
-format_d = 'Positive\nConfidence: 67.3\nWord: love\nReason: Love is beautiful.'
 query_data = (
-    ''
-    'YOU ARE AN ANALYSIS AGENT, TO HELP MODERATE THE SERVER. PLEASE ANALYZE THE CONTENT BEFORE ACTUALLY CHOOSING THE WORD!'
-    'ONLY REPLY WITH EITHER HARMFUL, POSITIVE OR NEUTRAL WITH A PERCENTAGE OF CONFIDENCE! NOTHING ELSE',
-    'DONT EVEN ACKNOWLEDGE ANYTHING ELSE BUT THOSE 3 WORDS. ANALYZE AND COME BACK WITH THE FOLLOWING FORMAT...',
-    f'Example: {format_d}',
-    'ONLY USE WORDS WHICH ARE USED WITHIN THE CONTENT OF THE MESSAGE, LIKE IF I SAY "test"/"." THEN USE "Word: test"/"Word: ." IF THAT IS THE ONLY WORD/CHARACTER!',
-    'DO NOT FORGET TO ADD A REASON FOR THE RESULT. WHY IS IT POSITIVE? WHY IS IT HARMFUL? WHY IS IT NEUTRAL/MIXED?'
+    'You are tasked with analyzing chat messages to determine their category: HARMFUL, POSITIVE, or NEUTRAL.',
+    'Always consider the entire message content for analysis. If no specific word stands out, use the entire message as the "word."',
+    'Respond with the category and a confidence percentage. Use the format: Positive\nConfidence: 97.3\nWord: love\nReason: Love is beautiful.',
+    'If the message is "test", respond with "Word: test". If the message is a single character or symbol, use it as the "word."',
+    'Provide a reason for your analysis. Use Urban Dictionary if needed.',
+    'Do not acknowledge anything other than the three categories. Use common sense if the content is not a traditional word.',
+    'Analyze the content even if it is not a single word. Use the entire content as "Word/Words" if necessary.'
 )
 
 # Join the tuple into a single string
@@ -101,7 +103,7 @@ class MyClient(selfcord.Client):
         log_message = f"#{message.channel.name} | {message.author}: {message.content}\n"
         created_timestamp = message.created_at.strftime('%Y-%m-%d %H:%M:%S')
         edited_timestamp = message.edited_at.strftime('%Y-%m-%d %H:%M:%S') if message.edited_at else "Never"
-        highest_role = "No Role"  # default
+        highest_role = "Community"  # default
         if hasattr(message.author, 'roles'):  # Check if it's a Member object
             highest_role = max(message.author.roles, key=lambda r: r.position).name if message.author.roles else "No Role"
         
@@ -112,11 +114,15 @@ class MyClient(selfcord.Client):
     
     async def analyze_message(self, message):
         user_input = message.content  
+        highest_role = "Community"  # default
+        if hasattr(message.author, 'roles'):  # Check if it's a Member object
+            highest_role = max(message.author.roles, key=lambda r: r.position).name if message.author.roles else "No Role"
         query_convo = [
             {'role': 'system', 'content': query_data_str},
-            {'role': 'user', 'content': user_input}
+            {'role': 'tool', 'content': f"{highest_role} | {message.author.name}:"},
+            {'role': 'user', 'content': f"CONTENT FROM THE USER THAT YOU MUST ANALYSE:\n {user_input}"}
         ]
-        return await asyncio.to_thread(client.chat, model="mistral", messages=query_convo)
+        return await asyncio.to_thread(client.chat, model="llama3.2:1b", messages=query_convo)
 
     async def process_message_queue(self):
         while True:
@@ -147,7 +153,7 @@ class MyClient(selfcord.Client):
                     # Here you might want to log or handle this analysis result instead of printing
                     #For now, I'll comment out the print statements:
                     print(f"https://discord.com/channels/{GUILD_ID}/{message.channel.id}/{message.id}")
-                    print("Analysis of: ", message)
+                    print("Analysis of: ", log_entry)
                     print("Analysis Result:", analysis)
                 else:
                     print("No valid response from Ollama.")
@@ -158,33 +164,42 @@ class MyClient(selfcord.Client):
             finally:
                 self.is_analyzing.set()
 
+    async def fetch_message_info(self, message):
+        """Fetches and returns message information without logging."""
+        created_timestamp = message.created_at.strftime('%Y-%m-%d %H:%M:%S')
+        edited_timestamp = message.edited_at.strftime('%Y-%m-%d %H:%M:%S') if message.edited_at else "Never"
+        highest_role = "No Role"  # default
+        if hasattr(message.author, 'roles'):  # Check if it's a Member object
+            highest_role = max(message.author.roles, key=lambda r: r.position).name if message.author.roles else "No Role"
+        
+        return {
+            "log_message": f"#{message.channel.name} | {message.author}: {message.content}\n",
+            "created_timestamp": created_timestamp,
+            "edited_timestamp": edited_timestamp,
+            "highest_role": highest_role
+        }
+
     async def print_last_10_messages(self, channel):
         print(f"{INFO_COLOR}Fetching last 10 messages from channel: {channel.name}{RESET_COLOR}")  # Debug statement
         try:
-            messages = []  # List to hold messages
+            msgs = []  # Initialize a list to collect messages
             async for msg in channel.history(limit=10):
                 print("DEBUG: ", msg.author)
-                # Log the message only if it's not the last one being processed
-                if len(messages) < 9:  # Only log the first 9 messages
-                    log_message, created_timestamp, edited_timestamp, highest_role = await self.log_message(msg, None, before=None, getSome=msg)
-                    messages.append(f"""
-    ¤: {highest_role} \n (User ID: {msg.author.id})
-        History: Created at {created_timestamp}, Edited at {edited_timestamp}
-        ${log_message}\n""")  # Collect messages
-                else:
-                    # For the last message, just append it without logging
-                    messages.append(f"""
-    ¤: {msg.author.display_name} \n (User ID: {msg.author.id})
-        History: Created at {msg.created_at.strftime('%Y-%m-%d %H:%M:%S')}, Edited at Never
-        ${msg.content}\n""")  # Collect the last message without logging
+                info = await self.fetch_message_info(msg)
+                msgs.append(f"""
+¤: {info['highest_role']} 
+(User ID: {msg.author.id})
+    History: Created at {info['created_timestamp']}, Edited at {info['edited_timestamp']}
+    ${info['log_message']}\n""")  # Collect messages
 
             print("\n--- Context of Last 10 Messages ---")
-            messages.reverse()
+            msgs.reverse()
 
-            for msg in messages:  # Reverse the order of messages
+            for msg in msgs:  # Reverse the order of messages
                 print(f"{INFO_COLOR}{msg}{RESET_COLOR}")  # Print each message in reverse order
         except Exception as e:
             print(f"{ERROR_COLOR}Error fetching messages: {e}{RESET_COLOR}")  # Print any errors that occur
+
     async def on_message(self, message):
         await self.log_message(message, "receive")
 
