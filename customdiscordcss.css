@@ -1,0 +1,8 @@
+:root {
+  --main-color: blue;
+  --hover-color: aqua;
+  --background-image: url(https://i.pinimg.com/originals/5d/4c/ec/5d4cecfea2a608604d1c0b79f192a726.jpg);
+  --background-overlay: rgba(0, 0, 0, 0.2);
+  --channel-text-selected: #f1f;
+  --background-message-hover: rgba(0, 0, 100, 0.5)
+}
